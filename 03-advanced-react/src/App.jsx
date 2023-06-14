@@ -1,9 +1,9 @@
-import ShortCircuitExamples from "./tutorial/03-conditional-rendering/starter/05-short-circuit-examples";
+import UserChallenge from "./tutorial/03-conditional-rendering/starter/07-user-challenge";
 
 function App() {
   return (
     <div className="container">
-      <ShortCircuitExamples />
+      <UserChallenge />
     </div>
   );
 }
